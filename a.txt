@@ -1,2 +1,3 @@
 HEAD
 created in master
+add this line after checkout from newfile
